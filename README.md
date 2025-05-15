@@ -1,11 +1,11 @@
 # ConsoleMonopoly
 A simple console monopoly on C#
 
-<img src="https://github.com/user-attachments/assets/0114f78c-904c-4e28-9e2e-462ae40d5df7" width="300" height="300" />
+<img src="https://github.com/user-attachments/assets/0114f78c-904c-4e28-9e2e-462ae40d5df7" width="320" height="300" />
 
-<img src="https://github.com/user-attachments/assets/eb12ca5a-04be-467f-96fb-81056d11ba1d" width="300" height="300" />
+<img src="https://github.com/user-attachments/assets/eb12ca5a-04be-467f-96fb-81056d11ba1d" width="320" height="300" />
 
-<img src="https://github.com/user-attachments/assets/a1c8efaf-bcca-4ce2-b398-6eb5e5c26931" width="400" height="300" />
+<img src="https://github.com/user-attachments/assets/a1c8efaf-bcca-4ce2-b398-6eb5e5c26931" width="450" height="300" />
 
 # 🎲 Monopoly - Console Edition (C#)
 
