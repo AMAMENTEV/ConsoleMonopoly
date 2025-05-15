@@ -1,0 +1,14 @@
+C:\Users\alexander\source\repos\Monopoly\bin\Debug\net6.0\Monopoly.exe
+C:\Users\alexander\source\repos\Monopoly\bin\Debug\net6.0\Monopoly.deps.json
+C:\Users\alexander\source\repos\Monopoly\bin\Debug\net6.0\Monopoly.runtimeconfig.json
+C:\Users\alexander\source\repos\Monopoly\bin\Debug\net6.0\Monopoly.dll
+C:\Users\alexander\source\repos\Monopoly\bin\Debug\net6.0\Monopoly.pdb
+C:\Users\alexander\source\repos\Monopoly\obj\Debug\net6.0\Monopoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexander\source\repos\Monopoly\obj\Debug\net6.0\Monopoly.AssemblyInfoInputs.cache
+C:\Users\alexander\source\repos\Monopoly\obj\Debug\net6.0\Monopoly.AssemblyInfo.cs
+C:\Users\alexander\source\repos\Monopoly\obj\Debug\net6.0\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\alexander\source\repos\Monopoly\obj\Debug\net6.0\Monopoly.dll
+C:\Users\alexander\source\repos\Monopoly\obj\Debug\net6.0\refint\Monopoly.dll
+C:\Users\alexander\source\repos\Monopoly\obj\Debug\net6.0\Monopoly.pdb
+C:\Users\alexander\source\repos\Monopoly\obj\Debug\net6.0\Monopoly.genruntimeconfig.cache
+C:\Users\alexander\source\repos\Monopoly\obj\Debug\net6.0\ref\Monopoly.dll
